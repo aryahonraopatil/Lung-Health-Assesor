@@ -1,5 +1,7 @@
 # Lung-Cancer-Detection 
 
+![Lungs](images/lungs_plant.jpeg)
+
 ## Introduction
 The World Health Organization (WHO) has stated that Cancer is the leading cause of death worldwide. It accounted for nearly 10 million deaths in 2020 alone. Of all the different possible types of Cancer, Lung Cancer was the most common cause of cancer death in 2020, accounting for about 1.80 million deaths.
 
