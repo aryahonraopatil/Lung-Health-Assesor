@@ -1,17 +1,4 @@
 from __future__ import print_function
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 17 12:39:25 2017
-
-@author: Prasad
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 17 11:51:38 2017
-
-@author: Prasad
-"""
 
 import math
 import random
