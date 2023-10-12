@@ -21,35 +21,35 @@ engineering. The process begins with the communication phase where the customer 
 
 ### System Architecture 
 
-![](images/sys_arch)
+![](images/sys_arch.png)
 
 ### Diagrams 
 
 #### Data Flow Diagrams
 
-![](images/dfd0)
+![](images/dfd0.png)
 
-![](images/dfd1)
+![](images/dfd1.png)
 
-![](images/dfd2)
+![](images/dfd2.png)
 
 #### Entity Relationship Diagram
 
-![](images/er_diag)
+![](images/er_diag.png)
 
 #### UML Diagrams
 
-![](images/usecase_diag)
+![](images/usecase_diag.png)
 
-![](images/activ_diag)
+![](images/activ_diag.png)
 
-![](images/seq_diag)
+![](images/seq_diag.png)
 
-![](images/class_diag)
+![](images/class_diag.png)
 
-![](images/component_diag)
+![](images/component_diag.png)
 
-![](images/deployment_diag)
+![](images/deployment_diag.png)
 
 ### Dataset Description
 
@@ -92,12 +92,12 @@ The performance of our CNN model is excellent as the f1-score for each class is 
 
 ### Results
 
-![Registration Form](images/registration_form)
+![Registration Form](images/registration_form.png)
 
-![Login Form](images/login_form)
+![Login Form](images/login_form.png)
 
-![Training and Testing the model](images/model1)
+![Training and Testing the model](images/model1.png)
 
-![Result Displayed on screen - Malignant](images/result1)
+![Result Displayed on screen - Malignant](images/result1.png)
 
-![Result Displayed on screen - Begign](images/result2)
+![Result Displayed on screen - Begign](images/result2.png)
