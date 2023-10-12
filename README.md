@@ -77,14 +77,14 @@ GoogleNet includes auxiliary classifiers at intermediate layers. These classifie
 
 We used the TensorFlow library to build our CNN model. Keras framework of the tensor flow library contains all the functionalities needed to define the architecture of a Convolutional Neural Network and train it on the data.
 
-While compiling a model we provide these three essential parameters:
+While compiling a model we provide these essential parameters:
 
-learning rate - the rate at which the model adjusts during training.
-batch size - the number of data samples processed before updating the model.
-optimizer – this is the method that helps to optimize the cost function by using gradient descent.
-loss – the loss function by which we monitor whether the model is improving with training or not.
-dropout rate - it is used to prevent overfitting, it represents the fraction or proportion of neurons in a specific layer that are randomly set to zero during training.
-metrics – this helps to evaluate the model by predicting the training and the validation data.
+1. learning rate - the rate at which the model adjusts during training.
+2. batch size - the number of data samples processed before updating the model.
+3. optimizer – this is the method that helps to optimize the cost function by using gradient descent.
+4. loss – the loss function by which we monitor whether the model is improving with training or not.
+5. dropout rate - it is used to prevent overfitting, it represents the fraction or proportion of neurons in a specific layer that are randomly set to zero during training.
+6. metrics – this helps to evaluate the model by predicting the training and the validation data.
 
 ### Model Evaluation
 
