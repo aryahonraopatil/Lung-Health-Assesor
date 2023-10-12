@@ -21,7 +21,7 @@ engineering. The process begins with the communication phase where the customer 
 
 ### System Architecture 
 
-![](images/sys_arch.png)
+![System Architecture](images/sys_arch.png)
 
 ### Diagrams 
 
