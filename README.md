@@ -62,6 +62,7 @@ We have used the GoogleNet architecture in this project. Here is a little bit mo
 GoogleNet, also known as Inception v1, is a deep convolutional neural network (CNN) architecture designed for image recognition and classification tasks. It was introduced by researchers from Google in a paper titled "Going Deeper with Convolutions" in 2014. GoogleNet uses inception modules, which allow the network to efficiently learn features at multiple spatial scales.
 
 Key Features of GoogleNet Architecture:
+
 1. Inception Modules:
 Inception modules are the building blocks of GoogleNet. These modules use multiple convolutions with different filter sizes (1x1, 3x3, 5x5) and max-pooling operations simultaneously. The idea is to capture features at different scales, allowing the network to learn complex patterns efficiently.
 
@@ -80,11 +81,17 @@ We used the TensorFlow library to build our CNN model. Keras framework of the te
 While compiling a model we provide these essential parameters:
 
 1. learning rate - the rate at which the model adjusts during training.
+   
 2. batch size - the number of data samples processed before updating the model.
+
 3. optimizer – this is the method that helps to optimize the cost function by using gradient descent.
+   
 4. loss – the loss function by which we monitor whether the model is improving with training or not.
+
 5. dropout rate - it is used to prevent overfitting, it represents the fraction or proportion of neurons in a specific layer that are randomly set to zero during training.
+   
 6. metrics – this helps to evaluate the model by predicting the training and the validation data.
+
 
 ### Model Evaluation
 
