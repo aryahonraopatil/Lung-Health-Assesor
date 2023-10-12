@@ -17,7 +17,7 @@ The Waterfall Model is a sequential design process, often used in Software devel
 In the waterfall model, we start with the feasibility study and move down through the various phases of Implementation, Testing, Deployment, maintenance, and into the live environment. This Model is also called the classic Life-Cycle model as it suggests a systematic sequential approach to software development. This is one of the oldest models followed in software
 engineering. The process begins with the communication phase where the customer specifies the requirements and then progresses through other phases like planning, modeling, construction, and deployment of the software.
 
-![Waterfall Model](images/waterfall)
+![Waterfall Model](images/waterfall.png)
 
 ### System Architecture 
 
