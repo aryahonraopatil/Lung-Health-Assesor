@@ -1,4 +1,4 @@
-# Lung-Cancer-Detection 
+# Lung Health Assessor
 
 ![Lungs](images/lungs_plant.jpeg)
 
